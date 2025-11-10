@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cb4702bbc26952488ac982e4c1a607b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - rightSprite: {fileID: 21300000, guid: 1d5981962683d455ba1857f592a65b02, type: 3}
+  - leftSprite: {fileID: 21300000, guid: 35a20c271ee5445c6b637c26ef35a015, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
